@@ -32,3 +32,5 @@
 [02-Jun-2013 06:00:02 UTC] PHP Notice:  Undefined index: REMOTE_ADDR in /home/salticid/public_html/trees/includes/bootstrap.inc on line 2835
 [02-Jun-2013 06:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/salticid/public_html/trees/includes/bootstrap.inc on line 1608
 [02-Jun-2013 06:00:02 UTC] PHP Notice:  Undefined index: REMOTE_ADDR in /home/salticid/public_html/trees/includes/bootstrap.inc on line 2835
+[02-Jun-2013 14:39:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/salticid/public_html/trees/includes/module.inc on line 1041
+[02-Jun-2013 11:02:03 America/Anguilla] PHP Warning:  Invalid argument supplied for foreach() in /home/salticid/public_html/trees/includes/module.inc on line 1041

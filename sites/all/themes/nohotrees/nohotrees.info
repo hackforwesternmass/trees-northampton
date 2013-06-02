@@ -1,0 +1,17 @@
+name = nohotrees
+description = Noho trees theme. Sub-theme of Bootstrap.
+core = 7.x
+base theme = Bootstrap
+
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer]         = 'Footer'
+
+stylesheets[all][] = css/styles.css
+
+settings[toggle_name] = 0
+settings[toggle_search] = 1
