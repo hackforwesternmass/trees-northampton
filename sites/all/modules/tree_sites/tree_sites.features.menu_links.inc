@@ -15,7 +15,7 @@ function tree_sites_menu_default_menu_links() {
     'menu_name' => 'navigation',
     'link_path' => 'node/add/site',
     'router_path' => 'node/add/site',
-    'link_title' => 'Propose a Site',
+    'link_title' => 'Suggest a spot for a tree',
     'options' => array(
       'attributes' => array(
         'title' => 'Site for a tree to get planted',
@@ -30,7 +30,7 @@ function tree_sites_menu_default_menu_links() {
   );
   // Translatables
   // Included for use with string extractors like potx.
-  t('Propose a Site');
+  t('Suggest a spot for a tree');
 
 
   return $menu_links;
