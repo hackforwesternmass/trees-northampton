@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tree sites feature.
+ */
+
+include_once 'tree_sites.features.inc';
